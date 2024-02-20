@@ -1,0 +1,8 @@
+C:\Users\SV\source\repos\Lab_5_31_24\Lab_5_31_24\obj\Debug\Lab_5_31_24.csproj.AssemblyReference.cache
+C:\Users\SV\source\repos\Lab_5_31_24\Lab_5_31_24\obj\Debug\Lab_5_31_24.csproj.SuggestedBindingRedirects.cache
+C:\Users\SV\source\repos\Lab_5_31_24\Lab_5_31_24\obj\Debug\Lab_5_31_24.csproj.CoreCompileInputs.cache
+C:\Users\SV\source\repos\Lab_5_31_24\Lab_5_31_24\bin\Debug\Lab_5_31_24.exe.config
+C:\Users\SV\source\repos\Lab_5_31_24\Lab_5_31_24\bin\Debug\Lab_5_31_24.exe
+C:\Users\SV\source\repos\Lab_5_31_24\Lab_5_31_24\bin\Debug\Lab_5_31_24.pdb
+C:\Users\SV\source\repos\Lab_5_31_24\Lab_5_31_24\obj\Debug\Lab_5_31_24.exe
+C:\Users\SV\source\repos\Lab_5_31_24\Lab_5_31_24\obj\Debug\Lab_5_31_24.pdb

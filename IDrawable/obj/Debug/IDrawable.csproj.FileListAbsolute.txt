@@ -1,0 +1,11 @@
+C:\Users\TIEN\source\repos\IDrawable\IDrawable\bin\Debug\IDrawable.exe.config
+C:\Users\TIEN\source\repos\IDrawable\IDrawable\bin\Debug\IDrawable.exe
+C:\Users\TIEN\source\repos\IDrawable\IDrawable\bin\Debug\IDrawable.pdb
+C:\Users\TIEN\source\repos\IDrawable\IDrawable\obj\Debug\IDrawable.csproj.AssemblyReference.cache
+C:\Users\TIEN\source\repos\IDrawable\IDrawable\obj\Debug\IDrawable.Form1.resources
+C:\Users\TIEN\source\repos\IDrawable\IDrawable\obj\Debug\IDrawable.Properties.Resources.resources
+C:\Users\TIEN\source\repos\IDrawable\IDrawable\obj\Debug\IDrawable.csproj.GenerateResource.cache
+C:\Users\TIEN\source\repos\IDrawable\IDrawable\obj\Debug\IDrawable.csproj.CoreCompileInputs.cache
+C:\Users\TIEN\source\repos\IDrawable\IDrawable\obj\Debug\IDrawable.exe
+C:\Users\TIEN\source\repos\IDrawable\IDrawable\obj\Debug\IDrawable.pdb
+C:\Users\TIEN\source\repos\IDrawable\IDrawable\obj\Debug\IDrawable.MyPaint_V2.resources
