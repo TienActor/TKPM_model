@@ -5,7 +5,9 @@ VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IDrawable", "IDrawable\IDrawable.csproj", "{43F462C4-3AA9-40A6-B3C3-AC2998C2B4AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleTon", "SingleTon\SingleTon.csproj", "{C3CFC0A8-7920-4376-830B-3019BF7CC7C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingleTon", "SingleTon\SingleTon.csproj", "{C3CFC0A8-7920-4376-830B-3019BF7CC7C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab6_composite", "Lab6_composite\Lab6_composite.csproj", "{19C56FB4-AAA4-4F16-AE89-E9F77E9044A4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{C3CFC0A8-7920-4376-830B-3019BF7CC7C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C3CFC0A8-7920-4376-830B-3019BF7CC7C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C3CFC0A8-7920-4376-830B-3019BF7CC7C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19C56FB4-AAA4-4F16-AE89-E9F77E9044A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19C56FB4-AAA4-4F16-AE89-E9F77E9044A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19C56FB4-AAA4-4F16-AE89-E9F77E9044A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19C56FB4-AAA4-4F16-AE89-E9F77E9044A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
