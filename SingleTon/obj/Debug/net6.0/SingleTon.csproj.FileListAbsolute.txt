@@ -1,0 +1,15 @@
+C:\Users\TIEN\source\repos\IDrawable\SingleTon\bin\Debug\net6.0\SingleTon.exe
+C:\Users\TIEN\source\repos\IDrawable\SingleTon\bin\Debug\net6.0\SingleTon.deps.json
+C:\Users\TIEN\source\repos\IDrawable\SingleTon\bin\Debug\net6.0\SingleTon.runtimeconfig.json
+C:\Users\TIEN\source\repos\IDrawable\SingleTon\bin\Debug\net6.0\SingleTon.dll
+C:\Users\TIEN\source\repos\IDrawable\SingleTon\bin\Debug\net6.0\SingleTon.pdb
+C:\Users\TIEN\source\repos\IDrawable\SingleTon\obj\Debug\net6.0\SingleTon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TIEN\source\repos\IDrawable\SingleTon\obj\Debug\net6.0\SingleTon.AssemblyInfoInputs.cache
+C:\Users\TIEN\source\repos\IDrawable\SingleTon\obj\Debug\net6.0\SingleTon.AssemblyInfo.cs
+C:\Users\TIEN\source\repos\IDrawable\SingleTon\obj\Debug\net6.0\SingleTon.csproj.CoreCompileInputs.cache
+C:\Users\TIEN\source\repos\IDrawable\SingleTon\obj\Debug\net6.0\SingleTon.sourcelink.json
+C:\Users\TIEN\source\repos\IDrawable\SingleTon\obj\Debug\net6.0\SingleTon.dll
+C:\Users\TIEN\source\repos\IDrawable\SingleTon\obj\Debug\net6.0\refint\SingleTon.dll
+C:\Users\TIEN\source\repos\IDrawable\SingleTon\obj\Debug\net6.0\SingleTon.pdb
+C:\Users\TIEN\source\repos\IDrawable\SingleTon\obj\Debug\net6.0\SingleTon.genruntimeconfig.cache
+C:\Users\TIEN\source\repos\IDrawable\SingleTon\obj\Debug\net6.0\ref\SingleTon.dll

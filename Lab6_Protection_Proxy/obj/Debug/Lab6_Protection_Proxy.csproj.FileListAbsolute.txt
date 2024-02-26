@@ -1,0 +1,7 @@
+C:\Users\TIEN\source\repos\IDrawable\Lab6_Protection_Proxy\bin\Debug\Lab6_Protection_Proxy.exe.config
+C:\Users\TIEN\source\repos\IDrawable\Lab6_Protection_Proxy\bin\Debug\Lab6_Protection_Proxy.exe
+C:\Users\TIEN\source\repos\IDrawable\Lab6_Protection_Proxy\bin\Debug\Lab6_Protection_Proxy.pdb
+C:\Users\TIEN\source\repos\IDrawable\Lab6_Protection_Proxy\obj\Debug\Lab6_Protection_Proxy.csproj.AssemblyReference.cache
+C:\Users\TIEN\source\repos\IDrawable\Lab6_Protection_Proxy\obj\Debug\Lab6_Protection_Proxy.csproj.CoreCompileInputs.cache
+C:\Users\TIEN\source\repos\IDrawable\Lab6_Protection_Proxy\obj\Debug\Lab6_Protection_Proxy.exe
+C:\Users\TIEN\source\repos\IDrawable\Lab6_Protection_Proxy\obj\Debug\Lab6_Protection_Proxy.pdb

@@ -1,0 +1,10 @@
+C:\Users\TIEN\source\repos\IDrawable\Lab6_Adapter\bin\Debug\Lab6_Adapter.exe.config
+C:\Users\TIEN\source\repos\IDrawable\Lab6_Adapter\bin\Debug\Lab6_Adapter.exe
+C:\Users\TIEN\source\repos\IDrawable\Lab6_Adapter\bin\Debug\Lab6_Adapter.pdb
+C:\Users\TIEN\source\repos\IDrawable\Lab6_Adapter\obj\Debug\Lab6_Adapter.csproj.AssemblyReference.cache
+C:\Users\TIEN\source\repos\IDrawable\Lab6_Adapter\obj\Debug\Lab6_Adapter.Form1.resources
+C:\Users\TIEN\source\repos\IDrawable\Lab6_Adapter\obj\Debug\Lab6_Adapter.Properties.Resources.resources
+C:\Users\TIEN\source\repos\IDrawable\Lab6_Adapter\obj\Debug\Lab6_Adapter.csproj.GenerateResource.cache
+C:\Users\TIEN\source\repos\IDrawable\Lab6_Adapter\obj\Debug\Lab6_Adapter.csproj.CoreCompileInputs.cache
+C:\Users\TIEN\source\repos\IDrawable\Lab6_Adapter\obj\Debug\Lab6_Adapter.exe
+C:\Users\TIEN\source\repos\IDrawable\Lab6_Adapter\obj\Debug\Lab6_Adapter.pdb
