@@ -19,7 +19,7 @@ namespace Lab6_Protection_Proxy
         public void View(int objId)
         {
             // Logic to create a new blog post
-            Console.WriteLine($"Viewing blog post {objId}");
+            Console.WriteLine($"Viewing blog at post {objId}");
            // throw new NotImplementedException();
         }
     }

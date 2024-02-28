@@ -13,6 +13,7 @@ namespace Lab6_Adapter
         public int _y;
         public int _width;
         public int _height;
+        public Color Color;
         public MyRectangle() { }
         public MyRectangle(int x, int y, int width, int height)
         {

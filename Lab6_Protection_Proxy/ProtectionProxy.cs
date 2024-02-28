@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace Lab6_Protection_Proxy
 {
 
-    // Định nghĩa UserRole, đảm bảo rằng có một giá trị UserRole.Reader nếu bạn muốn sử dụng cho người dùng thông thường.
+    // Định nghĩa UserRole, đảm bảo rằng có một giá trị UserRole.User nếu bạn muốn sử dụng cho người dùng thông thường.
     public enum UserRole
     {
         User,
@@ -22,10 +22,11 @@ namespace Lab6_Protection_Proxy
         private readonly Blog service;
 
 
-        public ProtectionProxy(User user, Blog service)
+        public ProtectionProxy(User user)
         {
             this.user = user;
-            this.service = service ?? throw new ArgumentNullException(nameof(service));
+            this.service = new Blog(); // Khởi tạo một instance của Blog
+            // this.service = service ?? throw new ArgumentNullException(nameof(service));
         }
 
         public void View(int objID)

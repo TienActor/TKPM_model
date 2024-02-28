@@ -10,12 +10,9 @@ namespace Lab6_Protection_Proxy
     {
         static void Main(string[] args)
         {
-            //User user = new User("Administrator", UserRole.Admin);
-            User user = new User("Guest", UserRole.Reader);
-            //User user = new User("Administrator", UserRole.Author);
-            Blog blogService = new Blog(); // Tạo một instance của Blog
-            ProtectionProxy blogProxy = new ProtectionProxy(user,blogService);
-            
+            User user = new User("Administrator", UserRole.Admin);
+            //User user = new User("Nguoi dung 1", UserRole.User);
+            ProtectionProxy blogProxy = new ProtectionProxy(user);
             blogProxy.Create();
             blogProxy.View(26);
             Console.ReadKey();

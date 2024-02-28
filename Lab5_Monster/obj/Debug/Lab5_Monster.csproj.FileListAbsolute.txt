@@ -1,0 +1,7 @@
+C:\Users\TIEN\source\repos\IDrawable\Lab5_Monster\obj\Debug\Lab5_Monster.csproj.AssemblyReference.cache
+C:\Users\TIEN\source\repos\IDrawable\Lab5_Monster\obj\Debug\Lab5_Monster.csproj.CoreCompileInputs.cache
+C:\Users\TIEN\source\repos\IDrawable\Lab5_Monster\bin\Debug\Lab5_Monster.exe.config
+C:\Users\TIEN\source\repos\IDrawable\Lab5_Monster\bin\Debug\Lab5_Monster.exe
+C:\Users\TIEN\source\repos\IDrawable\Lab5_Monster\bin\Debug\Lab5_Monster.pdb
+C:\Users\TIEN\source\repos\IDrawable\Lab5_Monster\obj\Debug\Lab5_Monster.exe
+C:\Users\TIEN\source\repos\IDrawable\Lab5_Monster\obj\Debug\Lab5_Monster.pdb
