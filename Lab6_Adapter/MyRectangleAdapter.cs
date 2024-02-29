@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Drawing;
 using System.Linq;
+using System.Net;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -9,21 +10,16 @@ namespace Lab6_Adapter
 {
     internal class MyRectangleAdapter:MyRectangle,IShape
     {
-        private Point start;
-        private Point end;
+        private MyRectangle _rectangle;
 
-        public MyRectangleAdapter(Point start, Point end) 
+        public MyRectangleAdapter(Point startPoint, Point endPoint)
         {
-            this.start = start;
-            this.end = end;
-            int x = Math.Min(start.X, end.X);
-            int y = Math.Min(start.Y, end.Y);
-            int width = Math.Abs(start.X - end.X);
-            int height = Math.Abs(start.Y - end.Y);
-            base._x = x;
-            base._y = y;
-            base._width = width;
-            base._height = height;
+            int x = Math.Min(startPoint.X, endPoint.X);
+            int y = Math.Min(startPoint.Y, endPoint.Y);
+            int width = Math.Abs(startPoint.X - endPoint.X);
+            int height = Math.Abs(startPoint.Y - endPoint.Y);
+
+            _rectangle = new MyRectangle(x, y, width, height);
         }
 
 
