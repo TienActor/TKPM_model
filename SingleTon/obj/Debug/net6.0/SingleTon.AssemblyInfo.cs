@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SingleTon")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a081d93543967942d7d4100db3aa58aef37e86d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d11d2e2114be34f2f8a8c9e7eecc2010c3f196e7")]
 [assembly: System.Reflection.AssemblyProductAttribute("SingleTon")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SingleTon")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

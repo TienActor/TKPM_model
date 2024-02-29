@@ -6,9 +6,19 @@ using System.Threading.Tasks;
 
 namespace Lab5_Monster
 {
-    internal static class RandomFactory
+    internal class RandomFactory : IMonsterFactory
     {
-        public static Monster Create(int monsterType)
+        private static Random _random = new Random();
+
+        // Implement the interface method to create a Monster
+        public Monster CreateMonster()
+        {
+            int monsterType = _random.Next(1, 4); // Generates a number between 1 and 3
+            return Create(monsterType); // Calls the private method to create a specific Monster
+        }
+
+        // Private method to create a Monster based on a given type
+        private static Monster Create(int monsterType)
         {
             switch (monsterType)
             {

@@ -14,8 +14,7 @@ namespace Lab5_Monster
 
         public override string ToString()
         {
-            return $"{this.GetType().Name} , HP:{_hp} , Armor:{_armor}, Speed:{_speed}";
-
+            return $"{this.GetType().Name,-15} | HP:{_hp,-5} | Armor:{_armor,-7} | Speed:{_speed,-6}";
         }
     }
 }

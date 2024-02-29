@@ -43,11 +43,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="IMonsterFactory.cs" />
     <Compile Include="Monster.cs" />
     <Compile Include="Mosquito.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RandomFactory.cs" />
+    <Compile Include="SequenceFactory.cs" />
+    <Compile Include="SimpleMonsterFactory.cs" />
     <Compile Include="Skeleton.cs" />
     <Compile Include="Wolf.cs" />
   </ItemGroup>
