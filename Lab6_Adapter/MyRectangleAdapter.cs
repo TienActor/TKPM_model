@@ -10,8 +10,8 @@ namespace Lab6_Adapter
 {
     internal class MyRectangleAdapter:MyRectangle,IShape
     {
-        private MyRectangle _rectangle;
-
+        private MyRectangle _rectangle;  ///adapteee 
+        // gồm conbotructor bao gồm cái mới và cái cũ có bước biến đổi 
         public MyRectangleAdapter(Point startPoint, Point endPoint)
         {
             int x = Math.Min(startPoint.X, endPoint.X);
