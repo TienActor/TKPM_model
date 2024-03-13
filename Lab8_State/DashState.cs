@@ -10,16 +10,16 @@ namespace Lab8_State
 {
     public class DashState:State
     {
-        private MyRectangle _rectangle;
+        private MyRectangle _rect;
 
-        public void SetContext(MyRectangle rectangle)
-        { this._rectangle = rectangle; }
+        public void SetContext(MyRectangle rect)
+        { this._rect = rect; }
 
-        public void Draw(Graphics graphics)
+        public void Draw(Graphics g)
         {
             using(var pen= new Pen(Color.Black, 2)) {
                 pen.DashStyle = DashStyle.DashDot;
-
+                g.DrawRectangle(pen, _rect.x, _rect.y, _rect.width, _rect.height);
 
             }
         }

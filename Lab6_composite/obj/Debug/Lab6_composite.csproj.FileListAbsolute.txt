@@ -1,7 +1,0 @@
-C:\Users\TIEN\source\repos\IDrawable\Lab6_composite\bin\Debug\Lab6_composite.exe.config
-C:\Users\TIEN\source\repos\IDrawable\Lab6_composite\bin\Debug\Lab6_composite.exe
-C:\Users\TIEN\source\repos\IDrawable\Lab6_composite\bin\Debug\Lab6_composite.pdb
-C:\Users\TIEN\source\repos\IDrawable\Lab6_composite\obj\Debug\Lab6_composite.csproj.AssemblyReference.cache
-C:\Users\TIEN\source\repos\IDrawable\Lab6_composite\obj\Debug\Lab6_composite.csproj.CoreCompileInputs.cache
-C:\Users\TIEN\source\repos\IDrawable\Lab6_composite\obj\Debug\Lab6_composite.exe
-C:\Users\TIEN\source\repos\IDrawable\Lab6_composite\obj\Debug\Lab6_composite.pdb

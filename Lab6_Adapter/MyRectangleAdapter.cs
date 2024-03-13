@@ -21,9 +21,6 @@ namespace Lab6_Adapter
 
             _rectangle = new MyRectangle(x, y, width, height);
         }
-
-
-
         public new void Draw(Graphics g)
         {
             base.Draw(g);

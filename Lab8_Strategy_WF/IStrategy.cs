@@ -8,9 +8,6 @@ namespace Lab8_Strategy_WF
 {
     internal interface IStrategy
     {
-        public void execute(int data)
-        {
-            
-        }
+        
     }
 }

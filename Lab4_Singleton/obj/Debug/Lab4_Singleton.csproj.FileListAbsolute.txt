@@ -1,7 +1,0 @@
-C:\Users\TIEN\source\repos\IDrawable\Lab4_Singleton\bin\Debug\Lab4_Singleton.exe.config
-C:\Users\TIEN\source\repos\IDrawable\Lab4_Singleton\bin\Debug\Lab4_Singleton.exe
-C:\Users\TIEN\source\repos\IDrawable\Lab4_Singleton\bin\Debug\Lab4_Singleton.pdb
-C:\Users\TIEN\source\repos\IDrawable\Lab4_Singleton\obj\Debug\Lab4_Singleton.csproj.AssemblyReference.cache
-C:\Users\TIEN\source\repos\IDrawable\Lab4_Singleton\obj\Debug\Lab4_Singleton.csproj.CoreCompileInputs.cache
-C:\Users\TIEN\source\repos\IDrawable\Lab4_Singleton\obj\Debug\Lab4_Singleton.exe
-C:\Users\TIEN\source\repos\IDrawable\Lab4_Singleton\obj\Debug\Lab4_Singleton.pdb

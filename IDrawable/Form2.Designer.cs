@@ -45,6 +45,7 @@
             this.Rectangle = new System.Windows.Forms.RadioButton();
             this.cdPenColor = new System.Windows.Forms.ColorDialog();
             this.cdFillColor = new System.Windows.Forms.ColorDialog();
+            this.saveButton = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.inpPenWidth)).BeginInit();
             this.groupBox2.SuspendLayout();
@@ -198,7 +199,7 @@
             // 
             this.groupBox3.Controls.Add(this.Circle);
             this.groupBox3.Controls.Add(this.Rectangle);
-            this.groupBox3.Location = new System.Drawing.Point(953, 402);
+            this.groupBox3.Location = new System.Drawing.Point(953, 369);
             this.groupBox3.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.groupBox3.Name = "groupBox3";
             this.groupBox3.Padding = new System.Windows.Forms.Padding(3, 2, 3, 2);
@@ -233,12 +234,25 @@
             this.Rectangle.UseVisualStyleBackColor = true;
             this.Rectangle.CheckedChanged += new System.EventHandler(this.Rectangle_CheckedChanged);
             // 
+            // saveButton
+            // 
+            this.saveButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.saveButton.Location = new System.Drawing.Point(992, 505);
+            this.saveButton.Name = "saveButton";
+            this.saveButton.Size = new System.Drawing.Size(120, 40);
+            this.saveButton.TabIndex = 4;
+            this.saveButton.Text = "Save";
+            this.saveButton.UseCompatibleTextRendering = true;
+            this.saveButton.UseVisualStyleBackColor = true;
+            this.saveButton.Click += new System.EventHandler(this.saveButton_Click);
+            // 
             // MyPaint_V2
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.ClientSize = new System.Drawing.Size(1235, 587);
+            this.Controls.Add(this.saveButton);
             this.Controls.Add(this.groupBox3);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);
@@ -276,5 +290,6 @@
         private System.Windows.Forms.Button btnColor1;
         private System.Windows.Forms.ColorDialog cdPenColor;
         private System.Windows.Forms.ColorDialog cdFillColor;
+        private System.Windows.Forms.Button saveButton;
     }
 }

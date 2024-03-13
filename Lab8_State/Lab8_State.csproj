@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BorderStyle.cs" />
     <Compile Include="DashState.cs" />
     <Compile Include="DottedState.cs" />
     <Compile Include="Form1.cs">

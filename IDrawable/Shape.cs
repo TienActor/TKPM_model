@@ -23,5 +23,9 @@ namespace IDrawable
             // Abstract method to draw the shape
             public abstract void Draw(Graphics g);
 
+
+        /// visitor
+        public abstract void Accept(IShapeVisitor visitor);
+
     }
 }

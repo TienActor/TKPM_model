@@ -1,7 +1,0 @@
-C:\Users\TIEN\source\repos\IDrawable\Lab7_Decorater\bin\Debug\Lab7_Decorater.exe.config
-C:\Users\TIEN\source\repos\IDrawable\Lab7_Decorater\bin\Debug\Lab7_Decorater.exe
-C:\Users\TIEN\source\repos\IDrawable\Lab7_Decorater\bin\Debug\Lab7_Decorater.pdb
-C:\Users\TIEN\source\repos\IDrawable\Lab7_Decorater\obj\Debug\Lab7_Decorater.csproj.AssemblyReference.cache
-C:\Users\TIEN\source\repos\IDrawable\Lab7_Decorater\obj\Debug\Lab7_Decorater.csproj.CoreCompileInputs.cache
-C:\Users\TIEN\source\repos\IDrawable\Lab7_Decorater\obj\Debug\Lab7_Decorater.exe
-C:\Users\TIEN\source\repos\IDrawable\Lab7_Decorater\obj\Debug\Lab7_Decorater.pdb

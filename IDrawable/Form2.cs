@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.Office.Interop.Excel;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -8,6 +9,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Point = System.Drawing.Point;
 
 
 namespace IDrawable
@@ -180,6 +182,41 @@ namespace IDrawable
             {
                 iFillable = 2; // Set iFillable for pattern fill
             }
+        }
+
+        private void saveButton_Click(object sender, EventArgs e)
+        {
+            bool userChoseJson=false;
+
+            IShapeVisitor visitor;
+
+            // Determine format based on user choice or file extension
+            if (userChoseJson) // This condition needs to be determined based on user input
+            {
+                visitor = new JsonExportVisitor();
+            }
+            else // CSV by default or based on user input
+            {
+                visitor = new CsvExportVisitor();
+            }
+            List<Shape> shapes = new List<Shape>(); // Assuming Shape is the base class/interface for all shapes
+
+            foreach (var shape in shapes)
+            {
+                shape.Accept(visitor);
+            }
+
+            string exportedData = "";
+            if (visitor is JsonExportVisitor jsonVisitor)
+            {
+                exportedData = jsonVisitor.Export();
+            }
+            else if (visitor is CsvExportVisitor csvVisitor)
+            {
+                exportedData = csvVisitor.Export();
+            }
+
+            // Save exportedData to a file
         }
     }
 }

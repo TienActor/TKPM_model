@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace IDrawable
 {
-    internal class Myrectangle:Shape
+    public class Myrectangle:Shape
     {
         private Point Location { get; set; }
         private int Width { get; set; }
@@ -52,6 +52,13 @@ namespace IDrawable
             {
                 g.DrawRectangle(pen, Location.X, Location.Y, Width, Height);
             }
+        }
+
+        // visitor
+
+        public override void Accept(IShapeVisitor visitor)
+        {
+            visitor.Visit(this);
         }
     }
 }

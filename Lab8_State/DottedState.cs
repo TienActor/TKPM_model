@@ -20,8 +20,9 @@ namespace Lab8_State
         {
             using (var pen = new Pen(Color.Black,2))
                     {
-                pen.DashStyle = DashStyle.Dot;
 
+                pen.DashStyle = DashStyle.Dot;
+                g.DrawRectangle(pen, _rect.x, _rect.y, _rect.width, _rect.height);
             }
         }
     }
